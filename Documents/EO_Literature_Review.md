@@ -16,11 +16,11 @@ Access to Sentinel mission data is available via the <a href="https://scihub.cop
 
 Mission specifications (full linked):
 * <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-1" target="_blank">Sentinel-1</a>
-  * Radar altimetry 5x20m resolution. 6-day repeat.
+  * Single instrument radar altimetry 5x20m resolution. 6-day repeat.
 * <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2" target="_blank">Sentinel-2</a>
   * Single instrument multi-spectral surface imagery up to 10m resolution
 * <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-3" target="_blank">Sentinel-3</a>
-  * Three instruments covering multi-spectral imagery up to 300m resolution and radar altimetry. 27-day repeat
+  * Two instruments covering multi-spectral surface imagery up to 300m resolution and single instrument for radar altimetry. 27-day repeat
 * <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-5p" target="_blank">Sentinel-5p</a>
   * Single instrument multi-spectral spectrometers for atmospheric particulates at 7km resolution. 16-day repeat
 
