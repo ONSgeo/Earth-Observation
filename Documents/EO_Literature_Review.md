@@ -30,6 +30,8 @@ Mission specifications (full linked):
 * Earth Explorer
 * Basic tech specs
 
+### APGB
+
 ### Raster Bands
 
 #### Processed/Unprocessed
@@ -77,3 +79,5 @@ Both expected AND unexpected
 * Military
 
 Clear case for use of EO data to support many government projects.
+
+## Future Work
