@@ -25,6 +25,23 @@ Mission specifications (full linked):
   * Single instrument multi-spectral spectrometers for atmospheric particulates at 7km resolution. 16-day repeat
 
 #### LandSat
+The Landsat program is the longest-running enterprise for acquisition of satellite imagery of Earth. It is a joint NASA/USGS program. Landsat satellite chronology dates back to July 23, 1972 the Earth Resources Technology Satellite was launched. This was eventually renamed to Landsat. The most recent, Landsat 8, was launched on February 11, 2013 and Landsat 9 is expected in September 2021. Landsat satellites have acquired millions of images which are a unique resource for global change research and applications in  agriculture, cartography, geology, forestry, regional planning, surveillance and education. 
+
+Landsat data can be freely ordered from USGS websites <a href="https://landsat.gsfc.nasa.gov/data/where-get-data" target="_blank>USGS</a>, depending on data use:
+
+LandSatlook viewer is a new tool launched in 2012 that enables fast and easy viewing, exporting and downloading of 3 million Landsat images all around the globe with just a simple web browser.
+
+USGS GloVis: The Global Visualization Viewer
+On GloVis, you can search for data by clicking on an interactive map or by entering the geographic coordinates (latitude and longitude) of the site you are searching for. All data is orthorectified and in GeoTIFF format.
+
+USGS Earth Explorer 
+The USGS Earth Explorer website allows you to custom tailor your search parameters for Landsat data.
+
+
+Free Orthorectified Landsat Data
+The USGS also freely offers the Landsat Orthorectified data collection which consists of a global set of high-quality, relatively cloud-free orthorectified MSS, TM and ETM+ imagery from Landsats 1-5 and 7.
+
+
 
 * USGS
 * Earth Explorer
