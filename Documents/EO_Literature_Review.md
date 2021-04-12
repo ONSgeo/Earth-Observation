@@ -27,7 +27,7 @@ Mission specifications (full linked):
 #### LandSat
 The Landsat program is the longest-running enterprise for acquisition of satellite imagery of Earth. It is a joint NASA/USGS program. Landsat satellite chronology dates back to July 23, 1972 the Earth Resources Technology Satellite was launched. This was eventually renamed to Landsat. The most recent, Landsat 8, was launched on February 11, 2013 and Landsat 9 is expected in September 2021. Landsat satellites have acquired millions of images which are a unique resource for global change research and applications in  agriculture, cartography, geology, forestry, regional planning, surveillance and education. 
 
-Landsat data can be freely ordered from USGS websites <a href="https://landsat.gsfc.nasa.gov/data/where-get-data" target="_blank>USGS</a>, depending on data use:
+Landsat data can be freely ordered from USGS websites <a href="https://landsat.gsfc.nasa.gov/data/where-get-data" target="_blank">USGS</a>, depending on data use:
 
 LandSatlook viewer is a new tool launched in 2012 that enables fast and easy viewing, exporting and downloading of 3 million Landsat images all around the globe with just a simple web browser.
 
