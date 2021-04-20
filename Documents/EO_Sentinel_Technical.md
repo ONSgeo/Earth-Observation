@@ -112,7 +112,7 @@ The table below shows how the numbered bands would relate to bands in the softwa
 		<td>Band 9</td>
 	</tr>
 	<tr>
-		<th colspan="4">60m Band</th>
+		<th colspan="4">60m Bands</th>
 	</tr>
 	<tr>
 		<td>B01</td>
