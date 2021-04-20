@@ -1,5 +1,5 @@
 ---
-title: Sentinel Data: Technical Details and Usage
+title: Sentinel Data Technical Details and Usage
 description: Overview of technical specifactions of Sentinel data and how to use it
 ---
 
