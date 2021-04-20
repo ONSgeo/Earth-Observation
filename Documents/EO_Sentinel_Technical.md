@@ -1,3 +1,9 @@
+---
+title: Sentinel Data: Technical Details and Usage
+description: Overview of technical specifactions of Sentinel data and how to use it
+---
+
+
 # Sentinel Data: Technical Details and Usage
 
 This document covers some of the technical aspects of the Sentinel platform, including:
