@@ -23,18 +23,93 @@ The table below shows how the numbered bands would relate to bands in the softwa
 
 <table style="width:100%" align="center">
 	<tr>
-		<th colspan="4">10m Bands</th>
-	</tr>
-	<tr>
 		<th>Name</th>
-		<th>Description></th>
+		<th>Description</th>
 		<th>Wavelength(nm)</th>
 		<th>StackBand</th>
+	</tr>
+	<tr>
+		<th colspan="4">10m Bands</th>
 	</tr>
 	<tr>
 		<td>B02</td>
 		<td>Blue</td>
 		<td>490</td>
 		<td>Band 1</td>
+	</tr>
+	<tr>
+		<td>B03</td>
+		<td>Green</td>
+		<td>560</td>
+		<td>Band 2</td>
+	</tr>
+	<tr>
+		<td>B04</td>
+		<td>Red</td>
+		<td>665</td>
+		<td>Band 3</td>
+	</tr>
+	<tr>
+		<td>B08</td>
+		<td>NIR</td>
+		<td>842</td>
+		<td>Band 4</td>
+	</tr>
+	<tr>
+		<th colspan="4">20m Bands</th>
+	</tr>
+	<tr>
+		<td>B02</td>
+		<td>Blue</td>
+		<td>490</td>
+		<td>Band 1</td>
+	</tr>
+	<tr>
+		<td>B03</td>
+		<td>Green</td>
+		<td>560</td>
+		<td>Band 2</td>
+	</tr>
+	<tr>
+		<td>B04</td>
+		<td>Red</td>
+		<td>665</td>
+		<td>Band 3</td>
+	</tr>
+	<tr>
+		<td>B05</td>
+		<td>Red Edge</td>
+		<td>705</td>
+		<td>Band 4</td>
+	</tr>
+	<tr>
+		<td>B06</td>
+		<td>Red Edge</td>
+		<td>740</td>
+		<td>Band 5</td>
+	</tr>
+	<tr>
+		<td>B07</td>
+		<td>Red Edge</td>
+		<td>783</td>
+		<td>Band 6</td>
+	</tr>
+	<tr>
+		<td>B8A</td>
+		<td>Red Edge</td>
+		<td>865</td>
+		<td>Band 7</td>
+	</tr>
+	<tr>
+		<td>B11</td>
+		<td>SWIR</td>
+		<td>1610</td>
+		<td>Band 8</td>
+	</tr>
+	<tr>
+		<td>B12</td>
+		<td>SWIR</td>
+		<td>2190</td>
+		<td>Band 9</td>
 	</tr>
 </table>
