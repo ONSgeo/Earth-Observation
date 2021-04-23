@@ -65,7 +65,7 @@ Data from Landsat and Sentinel programmes are available at a number of processin
 
 For example, three processed products at top of atmosphere (TOA), surface reflectance (bottom of atmosphere, BOA), and surface temperature from Landsat:
 
-<figure align="center">
+<figure>
  <img src="https://github.com/ONSgeo/Earth-Observation/blob/main/images/C2_L8_140041_20130503.png?raw=true" alt="Landsat products. Credit: Michelle A. Bouchard, based on Landsat data from the USGS">
  <figcaption>Three remote sensed products available from Landsat: Left: Landsat 8 Collection 2 level-1 top of atmosphere reflectance image, center: Landsat 8 Collection 2 level-2 atmospherically corrected surface reflectance image, and right: Landsat 8 Collection 2 level-2 surface temperature</figcaption>
 </figure>
