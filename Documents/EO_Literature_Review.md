@@ -67,7 +67,7 @@ For example, three processed products at top of atmosphere (TOA), surface reflec
 
 <p align="center">
  <img src="https://github.com/ONSgeo/Earth-Observation/blob/main/images/C2_L8_140041_20130503.png?raw=true" alt="Landsat products. Credit: Michelle A. Bouchard, based on Landsat data from the USGS">
- <i>Three remote sensed products available from Landsat: Left: Landsat 8 Collection 2 level-1 top of atmosphere reflectance image, center: Landsat 8 Collection 2 level-2 atmospherically corrected surface reflectance image, and right: Landsat 8 Collection 2 level-2 surface temperature</i>
+ <i>Three remote sensed products available from Landsat: Left: Landsat 8 Collection 2 level-1 top of atmosphere reflectance image, center: Landsat 8 Collection 2 level-2 atmospherically corrected surface reflectance image, and right: Landsat 8 Collection 2 level-2 surface temperature. Credit: <a href="https://www.usgs.gov/media/images/example-landsat-8-collection-2-products" target="_blank">USGS</a></i>
 </p>
 
 For surface analysis purposes, data should be processed to bottom of atmosphere (BOA) reflectance: This represents the physical values of light reflected from the surface with atmospheric corrections made.
