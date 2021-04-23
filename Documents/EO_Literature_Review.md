@@ -53,7 +53,26 @@ The USGS also freely offers the Landsat Orthorectified data collection which con
 
 ### Raster Bands
 
+Remote sensed data often come as a number of seperate bands reprsenting different wavelengths of sensed light. These bands ban be combined to produce true or false colour imagery, or can be used as a large dataset for analysis.
+
 #### Processed/Unprocessed
+
+Data from Landsat and Sentinel programmes are available at a number of processing levels. These levels determine what corrections have been made to the data to account for:
+
+* Position of the pixels on the ground
+* Atmospheric distortions
+* Conversion from raw n-bit values to reflectance and radiance
+
+For example, three processed products at top of atmosphere (TOA), surface reflectance (bottom of atmosphere, BOA), and surface temperature from Landsat:
+
+<figure align="center">
+ <img src="/C2_L8_140041_20130503.png" alt="Landsat products. Credit: Michelle A. Bouchard, based on Landsat data from the USGS">
+ <figcaption>Three remote sensed products available from Landsat: Left: Landsat 8 Collection 2 level-1 top of atmosphere reflectance image, center: Landsat 8 Collection 2 level-2 atmospherically corrected surface reflectance image, and right: Landsat 8 Collection 2 level-2 surface temperature</figcaption>
+</figure>
+
+For surface analysis purposes, data should be processed to bottom of atmosphere (BOA) reflectance: This represents the physical values of light reflected from the surface with atmospheric corrections made.
+
+Both Landsat and Sentinel data collections offer BOA reflectance under 'Level 2' data products from their respective providers.
 
 #### Applications
 
