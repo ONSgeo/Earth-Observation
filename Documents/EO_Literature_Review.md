@@ -83,7 +83,11 @@ Both Landsat and Sentinel data collections offer BOA reflectance under 'Level 2'
 
 ### Programmatic
 
-* R/Python
+#### R
+
+The primary package used for raster data in R is... [`raster`](https://cran.r-project.org/web/packages/raster/raster.pdf). `raster` can handle most operations: stacking, masking, basic statistics. Handily, this can also be combined with operations in [`tidyverse`](https://www.tidyverse.org/) and [`sf`](https://r-spatial.github.io/sf/) for a full, streamlined analysis combining methods for raster and vector data as well as additional statistics and data handling. See /R_Scripts/ for examples of analysis of EO data in R.
+
+See Documents/
 
 ### GIS
 
