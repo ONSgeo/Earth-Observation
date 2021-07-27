@@ -40,7 +40,7 @@ Landsat 4-5 Thematic Mapper (TM) images consist of seven spectral bands with a s
 | Band 3 |  0.63 - 0.69 | 30 |
 | Band 4 |  0.76 - 0.90 | 30 |
 | Band 5 |  1.55 - 1.75 | 30 |
-| Band 6 |  10.40 - 12.50 | 120(30) |
+| Band 6 |  10.40 - 12.50 | 120 (30) |
 | Band 7 |  2.08 - 2.35 | 30 |
 
 
