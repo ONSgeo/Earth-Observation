@@ -17,10 +17,11 @@ The sensors aboard each of the Landsat satellites were designed to acquire data 
 
 While the earlier satellites carried just one sensor, Landsat 8 acquires data in 11 bands from two separate sensors: the Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS).  The instruments on Landsat 9 are being designed as improved copies of Landsat 8.
 
-### Landsat 1-5 Multispectral Scanner
+### Landsat 1-5 Multispectral Scanner (MSS)
 
 Landsat 1-5 Multispectral Scanner (MSS) images consist of four spectral bands with 60 meter spatial resolution. Approximate scene size is 170 km north-south by 185 km east-west (106 mi by 115 mi). Specific band designations differ from Landsat 1-3 to Landsat 4-5.
 
+                 ## Landsat 1-5 Multispectral Scanner (MSS)
 | Landsat 1-3      | Landsat 4-5      | Wavelength (micrometers) | Resolution (meters) |
 | :----------: | :----------: | :-----: | :-----: |
 | Band 4 | Band 1 | 0.5 - 0.6 | 60 |
