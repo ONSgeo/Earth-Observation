@@ -50,6 +50,18 @@ Landsat 4-5 Thematic Mapper (TM) images consist of seven spectral bands with a s
 
 Landsat 7 Enhanced Thematic Mapper Plus (ETM+) images consist of eight spectral bands with a spatial resolution of 30 meters for Bands 1 to 7. The resolution for Band 8 (panchromatic) is 15 meters. All bands can collect one of two gain settings (high or low) for increased radiometric sensitivity and dynamic range, while Band 6 collects both high and low gain for all scenes. Approximate scene size is 170 km north-south by 183 km east-west (106 mi by 114 mi).
 
+| Landsat 7  | Wavelength (micrometers) | Resolution (meters) |
+| :----------: | :-----: | :-----: |
+| Band 1 |  0.45 - 0.52 | 30 |
+| Band 2 |  0.52 - 0.60 | 30 |
+| Band 3 |  0.63 - 0.69 | 30 |
+| Band 4 |  0.77 - 0.90 | 30 |
+| Band 5 |  1.55 - 1.75 | 30 |
+| Band 6 |  10.40 - 12.50 | 60 (30) |
+| Band 7 |  2.09 - 2.35 | 30 |
+| Band 8 |  .52 - .90 | 15 |
+
+
 
 ### Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS)
 
