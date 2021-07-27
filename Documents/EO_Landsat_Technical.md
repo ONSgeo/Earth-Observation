@@ -35,13 +35,13 @@ Landsat 4-5 Thematic Mapper (TM) images consist of seven spectral bands with a s
 
 | Landsat 4-5  | Wavelength (micrometers) | Resolution (meters) |
 | :----------: | :-----: | :-----: |
-| Band 1 |  0.5 - 0.6 | 60 |
-| Band 2 |  0.6 - 0.7 | 60 |
-| Band 3 |  0.7 - 0.8 | 60 |
-| Band 4 |  0.8 - 1.1 | 60 |
-| Band 5 |  0.5 - 0.6 | 60 |
-| Band 6 |  0.6 - 0.7 | 60 |
-| Band 7 |  0.7 - 0.8 | 60 |
+| Band 1 |  0.45 - 0.52 | 30 |
+| Band 2 |  0.52 - 0.60 | 30 |
+| Band 3 |  0.63 - 0.69 | 30 |
+| Band 4 |  0.76 - 0.90 | 30 |
+| Band 5 |  1.55 - 1.75 | 30 |
+| Band 6 |  10.40 - 12.50 | 120(30) |
+| Band 7 |  2.08 - 2.35 | 30 |
 
 
 
