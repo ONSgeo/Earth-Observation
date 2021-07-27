@@ -63,7 +63,7 @@ Landsat 7 Enhanced Thematic Mapper Plus (ETM+) images consist of eight spectral 
 
 
 
-### Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS)
+### Landsat 8-9 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS)
 
 Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) images consist of nine spectral bands with a spatial resolution of 30 meters for Bands 1 to 7 and 9. New band 1 (ultra-blue) is useful for coastal and aerosol studies. New band 9 is useful for cirrus cloud detection. The resolution for Band 8 (panchromatic) is 15 meters. Thermal bands 10 and 11 are useful in providing more accurate surface temperatures and are collected at 100 meters. Approximate scene size is 170 km north-south by 183 km east-west (106 mi by 114 mi). The instruments on Landsat 9 (launch ready mid-2021) are being designed as improved copies of Landsat 8.
 
