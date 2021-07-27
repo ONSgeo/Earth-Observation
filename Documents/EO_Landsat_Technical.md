@@ -1,5 +1,5 @@
 
-## Landsat Data: Technical Details and Usage
+# Landsat Data: Technical Details and Usage
 
 This document covers some of the technical aspects of the Landsat platform, including:
 
