@@ -22,3 +22,15 @@ While the earlier satellites carried just one sensor, Landsat 8 acquires data in
 Landsat 1-5 Multispectral Scanner (MSS) images consist of four spectral bands with 60 meter spatial resolution. Approximate scene size is 170 km north-south by 185 km east-west (106 mi by 115 mi). Specific band designations differ from Landsat 1-3 to Landsat 4-5.
 
 
+### Landsat 4-5 Thematic Mapper
+
+Landsat 4-5 Thematic Mapper (TM) images consist of seven spectral bands with a spatial resolution of 30 meters for Bands 1 to 5 and 7. Spatial resolution for Band 6 (thermal infrared) is 120 meters, but is resampled to 30-meter pixels. Approximate scene size is 170 km north-south by 183 km east-west (106 mi by 114 mi).
+
+### Landsat 7 Enhanced Thematic Mapper Plus (ETM+)
+
+Landsat 7 Enhanced Thematic Mapper Plus (ETM+) images consist of eight spectral bands with a spatial resolution of 30 meters for Bands 1 to 7. The resolution for Band 8 (panchromatic) is 15 meters. All bands can collect one of two gain settings (high or low) for increased radiometric sensitivity and dynamic range, while Band 6 collects both high and low gain for all scenes. Approximate scene size is 170 km north-south by 183 km east-west (106 mi by 114 mi).
+
+
+### Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS)
+
+Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) images consist of nine spectral bands with a spatial resolution of 30 meters for Bands 1 to 7 and 9. New band 1 (ultra-blue) is useful for coastal and aerosol studies. New band 9 is useful for cirrus cloud detection. The resolution for Band 8 (panchromatic) is 15 meters. Thermal bands 10 and 11 are useful in providing more accurate surface temperatures and are collected at 100 meters. Approximate scene size is 170 km north-south by 183 km east-west (106 mi by 114 mi). The instruments on Landsat 9 (launch ready mid-2021) are being designed as improved copies of Landsat 8.
