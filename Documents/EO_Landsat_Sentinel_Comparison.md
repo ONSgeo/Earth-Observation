@@ -1,4 +1,9 @@
 
-# Comparison between Sentinel-2A’s MultiSpectral Instrument and Landsat data?
+# Comparison between Landsat bands and Sentinel-2A’s MultiSpectral Instrument
 
-The Sentinel-2A MultiSpectral Instrument (MSI) data has spectral bands very similar to Landsat 8 (excluding the thermal bands of Landsat 8’s Thermal Infrared Sensor).
+### Radiometric Characteristics: 
+The Sentinel-2A data has spectral bands very similar to Landsat 8 (excluding the thermal bands of Landsat 8’s Thermal Infrared Sensor). The specific placement of the Sentinel-2A bands, as compared to Landsat 7 and 8 bands, can be seen in the graphic below.
+
+![Comparison of Landsat 7 and 8 bands with Sentinel-2](R:\Earth_Observation\ResearchDocs\Landsat.v.Sentinel-2.png)
+
+
