@@ -12,3 +12,6 @@ The main visible and near-infrared Sentinel-2A bands have a spatial resolution o
 During the development of Landsat 8 and Sentinel-2A, calibration scientists from both projects worked together to cross-calibrate the sensors.
 
 The [USGS Spectral Characteristics Viewer](https://landsat.usgs.gov/spectral-characteristics-viewer) helps users determine which spectral bands work best to identify their features of interest for image interpretation.
+
+### Geometric Characteristics:
+Sentinel-2A Level-1C products have similar geometric accuracy as Landsat 8.
