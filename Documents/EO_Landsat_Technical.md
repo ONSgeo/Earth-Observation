@@ -24,6 +24,9 @@ Landsat 1-5 Multispectral Scanner (MSS) images consist of four spectral bands wi
 | Landsat 1-3      | Landsat 4-5      | Wavelength (micrometers) | Resolution (meters) |
 | :----------: | :----------: | :-----: | :-----: |
 | Band 4 | Band 1 | 0.5 - 0.6 | 60 |
+| Band 5 | Band 2 | 0.6 - 0.7 | 60 |
+| Band 6 | Band 3 | 0.7 - 0.8 | 60 |
+| Band 7 | Band 4 | 0.8 - 1.1 | 60 |
 
 
 ### Landsat 4-5 Thematic Mapper
