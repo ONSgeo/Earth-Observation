@@ -22,7 +22,7 @@ While the earlier satellites carried just one sensor, Landsat 8 acquires data in
 Landsat 1-5 Multispectral Scanner (MSS) images consist of four spectral bands with 60 meter spatial resolution. Approximate scene size is 170 km north-south by 185 km east-west (106 mi by 115 mi). Specific band designations differ from Landsat 1-3 to Landsat 4-5.
 
 | Landsat 1-3 | Landsat 4-5 | Wavelength (micrometers) | Resolution (meters) |
-| ---------- | ---------- | ----- | ----- |
+| :----------: | :----------: | :-----: | :-----: |
 | Band 4 | Band 1 | 0.5 - 0.6 | 60 |
 
 
