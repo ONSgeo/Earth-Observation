@@ -21,7 +21,6 @@ While the earlier satellites carried just one sensor, Landsat 8 acquires data in
 
 Landsat 1-5 Multispectral Scanner (MSS) images consist of four spectral bands with 60 meter spatial resolution. Approximate scene size is 170 km north-south by 185 km east-west (106 mi by 115 mi). Specific band designations differ from Landsat 1-3 to Landsat 4-5.
 
-## Landsat 1-5 Multispectral Scanner (MSS)
 | Landsat 1-3      | Landsat 4-5      | Wavelength (micrometers) | Resolution (meters) |
 | :----------: | :----------: | :-----: | :-----: |
 | Band 4 | Band 1 | 0.5 - 0.6 | 60 |
@@ -30,9 +29,22 @@ Landsat 1-5 Multispectral Scanner (MSS) images consist of four spectral bands wi
 | Band 7 | Band 4 | 0.8 - 1.1 | 60 |
 
 
-### Landsat 4-5 Thematic Mapper
+### Landsat 4-5 Thematic Mapper (TM)
 
 Landsat 4-5 Thematic Mapper (TM) images consist of seven spectral bands with a spatial resolution of 30 meters for Bands 1 to 5 and 7. Spatial resolution for Band 6 (thermal infrared) is 120 meters, but is resampled to 30-meter pixels. Approximate scene size is 170 km north-south by 183 km east-west (106 mi by 114 mi).
+
+| Landsat 4-5  | Wavelength (micrometers) | Resolution (meters) |
+| :----------: | :-----: | :-----: |
+| Band 1 |  0.5 - 0.6 | 60 |
+| Band 2 |  0.6 - 0.7 | 60 |
+| Band 3 |  0.7 - 0.8 | 60 |
+| Band 4 |  0.8 - 1.1 | 60 |
+| Band 5 |  0.5 - 0.6 | 60 |
+| Band 6 |  0.6 - 0.7 | 60 |
+| Band 7 |  0.7 - 0.8 | 60 |
+
+
+
 
 ### Landsat 7 Enhanced Thematic Mapper Plus (ETM+)
 
