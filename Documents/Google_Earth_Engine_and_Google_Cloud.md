@@ -19,4 +19,6 @@ Zero configuration required,
 Free access to GPUs, and 
 Easy sharing
 
+This .[Welcome to Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#scrollTo=GJBs_flRovLc) document has all the necessary info to get started with Colab.
+
 
