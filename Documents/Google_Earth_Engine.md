@@ -5,8 +5,7 @@ GEE is a cloud-based platform for massive-scale analysis of geospatial data. GEE
 
 ## Earth Engine (EE) Code Editor
 
-Earth Engine is available through Python and JavaScript Application Program Interfaces (APIs). The JavaScript API is accessible via a webbased Integrated Development Environment (IDE) called the Code Editor. Through  this platform users can write and execute scripts to share and repeat geospatial analysis and processing workflows. The
-Code Editor  [code.earthengine.google.com](https://code.earthengine.google.com/) offers access to the full power of Earth Engine. 
+Earth Engine is available through Python and JavaScript Application Program Interfaces (APIs). The JavaScript API is accessible via a webbased Integrated Development Environment (IDE) called the Code Editor. Through  this platform users can write and execute scripts to share and repeat geospatial analysis and processing workflows. To access Code Editor one can navigate to [code.earthengine.google.com](https://code.earthengine.google.com/) on goggle Chrome web browser. 
 
 In order to access the EE Code Editor using the ONS custom google account, you will require a Google Cloud Titan security key. One can obtain the key through Service Desk. 
 
