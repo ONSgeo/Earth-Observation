@@ -22,9 +22,6 @@ Folders are used to seperate the code, but be aware there may be subfolders cont
 ### Prerequisites 
 Scripts should include which packages will be needed for each. 
 
-For example: 
-pip install pandas
-import pandas as pd
 
 ### Data and Data requirements
 Data for this repo can vary, these scripts have been designed to be generic so they can be applied to a range of projects/testing/applications.
