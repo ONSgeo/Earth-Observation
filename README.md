@@ -5,7 +5,7 @@ Resources on the use of Earth observation data in ONS Geo team
 
 This repo is designed to be kept 'private'. 
 
-Code in this repo has been created or researched by members of the team and saved here so that it can be re-used in other projects. The code itself is not regularly maintained so if issues with the code are identified please either contact the [ONS Geography inbox](ONS.Geography@ons.gov.uk) if you are not in the geo-team. If you are in the geospatial team please create a branch on the code you are updating.
+Code in this repo has been created or researched by members of the team and saved here so that it can be re-used in other projects. 
 
 ### Useful instructions
 
@@ -17,12 +17,10 @@ Folders are used to seperate the code, but be aware there may be subfolders cont
 | Folder | Description |
 | ------------- | ------------- |
 | Documents | Contains documentation about different satellite data sources and applications |
-|  |  |
-
 
 
 ### Prerequisites 
-Scripts should include which packages will be needed for each. If package is not already present use pip install (package).
+Scripts should include which packages will be needed for each. 
 
 For example: 
 pip install pandas
