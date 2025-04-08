@@ -16,7 +16,7 @@ Code in this repo has been created or researched by members of the team and save
 Folders are used to seperate the code, but be aware there may be subfolders containing additional information of use.
 | Folder | Description |
 | ------------- | ------------- |
-|  |  |
+| Documents | Contains documentation about different satellite data sources and applications |
 |  |  |
 
 
